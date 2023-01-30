@@ -15,13 +15,14 @@ Ordarat is a food ordering app built with React to enhance my skills and showcas
 ## Getting Started
 
 1. Clone the repository to your local machine.
-   git clone https://github.com/LamiaaIbrahim/orderat.git
+   <p style="color:yellow">git</p>
+ clone https://github.com/LamiaaIbrahim/orderat.git
 
 2. Install the dependencies.
-   npm install
+   <p style="color:yellow">npm</p> install
 
 3. Start the app.
-   npm start
+   <p style="color:yellow">npm</p> start
 
 The app will be running at http://localhost:3000.
 
