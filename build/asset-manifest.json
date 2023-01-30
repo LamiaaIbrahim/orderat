@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/orderat.git/static/css/main.2864d20e.css",
+    "main.js": "/orderat.git/static/js/main.891c4f44.js",
+    "static/media/meals.jpg": "/orderat.git/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/orderat.git/index.html",
+    "main.2864d20e.css.map": "/orderat.git/static/css/main.2864d20e.css.map",
+    "main.891c4f44.js.map": "/orderat.git/static/js/main.891c4f44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2864d20e.css",
+    "static/js/main.891c4f44.js"
+  ]
+}
