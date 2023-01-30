@@ -24,3 +24,6 @@ Ordarat is a food ordering app built with React to enhance my skills and showcas
    npm start
 
 The app will be running at http://localhost:3000.
+
+## Live Demo
+[View the Deployed App](https://lamiaaibrahim.github.io/orderat/)
