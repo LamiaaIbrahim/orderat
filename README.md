@@ -2,10 +2,9 @@
 Ordarat is a food ordering app built with React to enhance my skills and showcase my progress as a React js developer.
 
 ## Features
-- Browse menu from different restaurants
+- Browse menu from one restaurant
 - Add items to the cart
 - View cart and make changes to the order
-- Place order and track delivery status
 
 ## Tech Stack
 - React
@@ -24,3 +23,6 @@ Ordarat is a food ordering app built with React to enhance my skills and showcas
    npm start
 
 The app will be running at http://localhost:3000.
+
+## Live Demo
+[View the Deployed App](https://lamiaaibrahim.github.io/orderat/)
